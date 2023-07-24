@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarahbast
 - 👀 I’m interested in ethical and resposible AI
 - 🌱 I’m currently growing my skills in many interesting (to me) areas
-- 💞️ I’m looking to collaborate on generative AI porjects
+- 💞️ I’m looking to collaborate on generative AI projects
 - 📫 How to reach me sarah@bast.ai
 
 <!---
